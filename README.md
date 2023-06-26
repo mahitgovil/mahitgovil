@@ -2,7 +2,10 @@
 
 <br>
 <img src="https://github.com/mahitgovil/mahitgovil/blob/main/Assets/cover.png" alt="Mahit Govil">
-## Connect with me  
+
+<br>
+
+## Connect With Me  
 <div align="center"><a href="https://www.linkedin.com/in/mahitgovil/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
