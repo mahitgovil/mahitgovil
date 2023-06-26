@@ -1,5 +1,6 @@
 ### Hi there, I'm Mahit 👋🏻
 
+<img src="https://github.com/mahitgovil/mahitgovil/blob/main/Assets/cover.png" alt="Mahit Govil">
 <!--
 **mahitgovil/mahitgovil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
