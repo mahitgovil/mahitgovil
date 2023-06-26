@@ -2,6 +2,8 @@
 
 <br>
 <img src="https://github.com/mahitgovil/mahitgovil/blob/main/Assets/cover.png" alt="Mahit Govil">
+<br>
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=mahitgovil&show_icons=true&theme=radical)
 
 <br>
 
