@@ -1,4 +1,5 @@
 ### Hi there, I'm Mahit! 👋🏻
+<hr>
 
 <br>
 <img src="https://github.com/mahitgovil/mahitgovil/blob/main/Assets/cover.png" alt="Mahit Govil">
