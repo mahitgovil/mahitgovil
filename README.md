@@ -28,20 +28,21 @@
 <img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" alt="Flutter" height="28px" />
 
 <br/>
+<br/>
 
 ### Connect with me:
 
 <div align="left"><a href="https://www.linkedin.com/in/mahitgovil/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt=linkedin style="margin-bottom: 5px;" />
+<img height="28px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://github.com/mahitgovil/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" alt=github style="margin-bottom: 5px;" />
+<img height="28px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/GovilMahit" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" alt=twitter style="margin-bottom: 5px;" />
+<img height="28px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+<img height="28px" src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 </div>
