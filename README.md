@@ -33,16 +33,16 @@
 ### Connect with me:
 
 <div align="left"><a href="https://www.linkedin.com/in/mahitgovil/" target="_blank">
-<img height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
+<img height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" alt=linkedin style="padding-right:10px;" />
 </a>  
 <a href="https://github.com/mahitgovil/" target="_blank">
-<img height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt=github style="margin-bottom: 5px;" />
+<img height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt=github style="padding-right:10px;" />
 </a>
 <a href="https://twitter.com/GovilMahit" target="_blank">
-<img height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/twitter.svg" alt=twitter style="margin-bottom: 5px;" />
+<img height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/twitter.svg" alt=twitter style="padding-right:10px;" />
 </a>
 <a href="https://instagram.com/" target="_blank">
-<img height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" alt=instagram style="margin-bottom: 5px;" />
+<img height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" alt=instagram style="padding-right:10px;" />
 </a>
 
 </div>
