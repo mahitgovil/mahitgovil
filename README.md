@@ -24,7 +24,7 @@
 <img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="28px" />
 <img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" alt="Firebase" height="28px" />
 <img align="left" style="padding-right:10px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="28px" />  
-<img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" alt="Github" height="28px" /> 
+<img align="left" style="padding-right:10px;" src="https://www.svgrepo.com/svg/512317/github-142" alt="Github" height="28px" /> 
 <img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" alt="Flutter" height="28px" />
 
 <br/>
@@ -36,7 +36,7 @@
 <img height="28px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://github.com/mahitgovil/" target="_blank">
-<img height="28px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" alt=github style="margin-bottom: 5px;" />
+<img height="28px" src="https://www.svgrepo.com/svg/512317/github-142" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/GovilMahit" target="_blank">
 <img height="28px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/twitter/twitter-original.svg" alt=twitter style="margin-bottom: 5px;" />
