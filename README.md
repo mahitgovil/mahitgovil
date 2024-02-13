@@ -45,7 +45,14 @@
 <img align="left" height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" alt=instagram style="padding-right:10px;" />
 </a>
 
+<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahitgovil&layout=compact)
+
+<br/>
+📈 my github stats
+<br/>
+![Mahit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahitgovil&show_icons=true&theme=dark)
 
 <!--
 Here are some ideas to get you started:
