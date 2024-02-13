@@ -1,4 +1,4 @@
-### Hi there, I'm Mahit! 👋🏻
+## Hi there, I'm Mahit! 👋🏻
 
 <br>
 <img src="https://github.com/mahitgovil/mahitgovil/blob/main/Assets/cover.png" alt="Mahit Govil">
@@ -44,6 +44,8 @@
 <a href="https://instagram.com/" target="_blank">
 <img align="left" height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" alt=instagram style="padding-right:10px;" />
 </a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahitgovil&layout=compact)
 
 <!--
 Here are some ideas to get you started:
