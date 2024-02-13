@@ -27,8 +27,8 @@
 <img align="left" style="padding-right:10px;" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Github" height="28px" /> 
 <img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" alt="Flutter" height="28px" />
 
-<br/>
-<br/>
+<br>
+<br>
 
 ### Connect with me:
 
@@ -45,14 +45,15 @@
 <img align="left" height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" alt=instagram style="padding-right:10px;" />
 </a>
 
-<br/>
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahitgovil&layout=compact)
 
-<br/>
+<!-- <br/>
 📈 my github stats
 <br/>
-![Mahit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahitgovil&show_icons=true&theme=dark)
+![Mahit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahitgovil&show_icons=true&theme=dark) -->
 
 <!--
 Here are some ideas to get you started:
