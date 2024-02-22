@@ -25,6 +25,7 @@
 <img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" alt="Flutter" height="28px" /></div>
 
 <br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahitgovil&layout=compact)
 <br>
 <br>
@@ -45,9 +46,6 @@
 <img align="left" height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" alt=instagram style="padding-right:10px;" />
 </a>
 </div>
-
-<br>
-<br>
 
 <!-- <br/>
 📈 my github stats
