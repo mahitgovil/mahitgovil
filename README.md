@@ -3,9 +3,6 @@
 <br>
 <img src="https://github.com/mahitgovil/mahitgovil/blob/main/Assets/cover.png" alt="Mahit Govil">
 <br>
-<!-- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=mahitgovil&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=mahitgovil&show_icons=true&theme=radical) -->
-
 <br>
 
 ### Languages and Tools:
@@ -28,10 +25,13 @@
 <img align="left" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flutter/flutter-original.svg" alt="Flutter" height="28px" />
 
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahitgovil&layout=compact)
+<br>
 <br>
 
 ### Connect with me:
 
+<div>
 <a href="https://www.linkedin.com/in/mahitgovil/" target="_blank">
 <img align="left" height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg" alt=linkedin style="padding-right:10px;" />
 </a>  
@@ -44,11 +44,10 @@
 <a href="https://instagram.com/" target="_blank">
 <img align="left" height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/instagram.svg" alt=instagram style="padding-right:10px;" />
 </a>
+</div>
 
 <br>
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahitgovil&layout=compact)
 
 <!-- <br/>
 📈 my github stats
@@ -64,6 +63,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
