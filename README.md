@@ -1,4 +1,4 @@
-## Hi there, I'm Mahit! 👋🏻
+## Hi there!, I'm Mahit! 👋🏻
 
 <br>
 <img src="https://github.com/mahitgovil/mahitgovil/blob/main/Assets/cover1.png" alt="Me">
