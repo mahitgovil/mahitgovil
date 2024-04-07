@@ -1,7 +1,7 @@
 ## Hi! it's me Mahit 😉
 
 <br>
-<img src="https://github.com/mahitgovil/mahitgovil/blob/main/Assets/cover1.png" alt="Me">
+<img src="https://github.com/mahitgovil/mahitgovil/blob/main/Assets/cover2.png" alt="Me">
 <br>
 
 ### Languages and Tools:
