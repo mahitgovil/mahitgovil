@@ -33,7 +33,7 @@
 ### Connect with me:
 
 <div>
-<a href="https://mahitgovil.github.io/my-portfolio-website/" target="_blank">
+<a href="https://mahitgovil.github.io/" target="_blank">
 <img align="left" height="28px" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/globe.svg" alt=website style="padding-right:10px;" />
 </a>
 <a href="https://www.linkedin.com/in/mahitgovil/" target="_blank">
