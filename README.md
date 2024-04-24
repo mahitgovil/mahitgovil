@@ -1,4 +1,4 @@
-## Hi! it's me Mahit 😉
+<h1 align="center">Hi 👋, I'm Mahit</h1>
 
 <br>
 <img src="https://github.com/mahitgovil/mahitgovil/blob/main/Assets/cover2.png" alt="Me">
